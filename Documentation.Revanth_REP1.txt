@@ -1,0 +1,14 @@
+Documentation for Repsotory Revanth_REP1
+
+Creator(Repository) - MR Revanth Jallipalli.
+Creator(Documentation) - Revanth Jallipalli
+
+Purposes of creating this repository-
+   This repository's sole purpose is to explore the github platform.
+       During the exploring process there might by many files created of various programming languages because the creater of this repository's intrests changes rapidly and 
+       continuesly.
+   This repository also acts as a storage dump where the creator stores all of his code sheets. 
+   
+
+
+   
